@@ -1,0 +1,17 @@
+useDynLib(resample, anyNA_sym = anyNA)
+
+export("bootstrap",
+       "bootstrap2",
+       "hist.resample",
+       "limits.percentile",
+       "limits.t",
+       "permutationTest",
+       "permutationTest2",
+       "plot.resample",
+       "print.resample",
+       "qqnorm.resample",
+       "quantile.resample",
+       "resample",
+       "samp.bootstrap",
+       "samp.permute"
+       )

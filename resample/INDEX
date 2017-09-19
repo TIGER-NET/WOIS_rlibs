@@ -1,0 +1,8 @@
+bootstrap               One and two sample bootstrap sampling and
+                        permutation tests.
+limits.percentile       Bootstrap confidence intervals
+plot.resample           Methods for common generic functions for
+                        resample objects
+resample                Nonparametric resampling
+resample-package        Resampling Functions
+samp.bootstrap          Generate indices for resampling

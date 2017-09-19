@@ -1,0 +1,15 @@
+resample-package	resample-package
+bootstrap	bootstrap
+bootstrap2	bootstrap
+hist.resample	print.resample
+limits.percentile	limits.percentile
+limits.t	limits.percentile
+permutationTest	bootstrap
+permutationTest2	bootstrap
+plot.resample	print.resample
+print.resample	print.resample
+qqnorm.resample	print.resample
+quantile.resample	print.resample
+resample	resample
+samp.bootstrap	samp.bootstrap
+samp.permute	samp.bootstrap

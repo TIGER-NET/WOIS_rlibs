@@ -1,0 +1,7 @@
+aggregateIndices        Calculate water / wetness probability
+getWaterMask            Water detection
+getWaterMask_SAR        Water detection SAR based
+getWetMask              Wetness detection
+getWetMask_SAR          Wetness detection SAR based
+sigmoid                 Sigmoid
+sigmoid01               Sigmoid

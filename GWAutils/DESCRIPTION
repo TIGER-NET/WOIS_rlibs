@@ -1,0 +1,16 @@
+Package: GWAutils
+Title: Support functions for GlobWetland Africa Toolbox
+Version: 0.0.0.9000
+Authors@R: person("Christina", "Ludwig", email = "ludwig@geoville.com", role = c("aut", "cre"))
+Description: This package inculdes functions for the Wetland Inventory and Water Cycle Regime of the GlobWetland Africa Toolbox.
+Depends: raster,rgdal,pastecs,plyr
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
+Author: Christina Ludwig [aut, cre]
+Maintainer: Christina Ludwig <ludwig@geoville.com>
+Built: R 3.3.2; ; 2017-06-02 09:52:59 UTC; windows
+RemoteType: local
+RemoteUrl: O:\2687_GW_A\04_CODE\R\GWAutils
+RemoteSha: 0.0.0.9000

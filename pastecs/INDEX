@@ -1,0 +1,69 @@
+.gleissberg.table       Table of probabilities according to the
+                        Gleissberg distribution
+AutoD2                  AutoD2, CrossD2 or CenterD2 analysis of a
+                        multiple time-series
+GetUnitText             Format a nice time units for labels in graphs
+abund                   Sort variables by abundance
+bnr                     A data frame of 163 benthic species measured
+                        across a transect
+buysbal                 Buys-Ballot table
+daystoyears             Convert time units from "days" to "years" or
+                        back
+decaverage              Time series decomposition using a moving
+                        average
+deccensus               Time decomposition using the CENSUS II method
+decdiff                 Time series decomposition using differences
+                        (trend elimination)
+decevf                  Time series decomposition using eigenvector
+                        filtering (EVF)
+decloess                Time series decomposition by the LOESS method
+decmedian               Time series decomposition using a running
+                        median
+decreg                  Time series decomposition using a regression
+                        model
+disjoin                 Complete disjoined coded data (binary coding)
+disto                   Compute and plot a distogram
+escouf                  Choose variables using the Escoufier's
+                        equivalent vectors method
+extract                 Extract a subset of the original dataset
+first                   Get the first element of a vector
+is.tseries              Is this object a time series?
+last                    Get the last element of a vector
+local.trend             Calculate local trends using cumsum
+marbio                  Several zooplankton taxa measured across a
+                        transect
+marphy                  Physico-chemical records at the same stations
+                        as for marbio
+match.tol               Determine matching observation with a tolerance
+                        in time-scale
+pennington              Calculate Pennington statistics
+pgleissberg             Gleissberg distribution probability
+regarea                 Regulate a series using the area method
+regconst                Regulate a series using the constant value
+                        method
+reglin                  Regulation of a series using a linear
+                        interpolation
+regspline               Regulation of a time series using splines
+regul                   Regulation of one or several time series using
+                        various methods
+regul.adj               Adjust regulation parameters
+regul.screen            Test various regulation parameters
+releve                  A data frame of six phytoplankton taxa followed
+                        in time at one station
+specs                   Collect parameters ("specifications") from one
+                        object to use them in another analysis
+stat.desc               Descriptive statistics on a data frame or time
+                        series
+stat.pen                Pennington statistics on a data frame or time
+                        series
+stat.slide              Sliding statistics
+trend.test              Test if an increasing or decreasing trend
+                        exists in a time series
+tsd                     Decomposition of one or several regular time
+                        series using various methods
+tseries                 Convert a 'regul' or a 'tsd' object into a time
+                        series
+turnogram               Calculate and plot a turnogram for a regular
+                        time series
+turnpoints              Analyze turning points (peaks or pits)
+vario                   Compute and plot a semi-variogram
