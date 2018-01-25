@@ -1,7 +1,2 @@
-aggregateIndices	aggregateIndices
-getWaterMask	getWaterMask
-getWaterMask_SAR	getWaterMask_SAR
-getWetMask	getWetMask
-getWetMask_SAR	getWetMask_SAR
-sigmoid	sigmoid
-sigmoid01	sigmoid01
+WCR_workflow	WCR_workflow
+WI_workflow	WI_workflow
