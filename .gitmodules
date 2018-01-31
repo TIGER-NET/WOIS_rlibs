@@ -1,0 +1,3 @@
+[submodule "gwautils"]
+	path = gwautils
+	url = https://github.com/GlobWetlandAfrica/gwautils.git
