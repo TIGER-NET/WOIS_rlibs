@@ -1,0 +1,39 @@
+MeanQuadraticWeightedKappa
+                        Mean Quadratic Weighted Kappa
+ScoreQuadraticWeightedKappa
+                        Quadratic Weighted Kappa
+accuracy                Accuracy
+ae                      Absolute Error
+ape                     Absolute Percent Error
+apk                     Average Precision at k
+auc                     Area under the ROC curve (AUC)
+bias                    Bias
+ce                      Classification Error
+f1                      F1 Score
+fbeta_score             F-beta Score
+ll                      Log Loss
+logLoss                 Mean Log Loss
+mae                     Mean Absolute Error
+mape                    Mean Absolute Percent Error
+mapk                    Mean Average Precision at k
+mase                    Mean Absolute Scaled Error
+mdae                    Median Absolute Error
+mse                     Mean Squared Error
+msle                    Mean Squared Log Error
+params_binary           Inherit Documentation for Binary Classification
+                        Metrics
+params_classification   Inherit Documentation for Classification
+                        Metrics
+params_regression       Inherit Documentation for Regression Metrics
+percent_bias            Percent Bias
+precision               Precision
+rae                     Relative Absolute Error
+recall                  Recall
+rmse                    Root Mean Squared Error
+rmsle                   Root Mean Squared Log Error
+rrse                    Root Relative Squared Error
+rse                     Relative Squared Error
+se                      Squared Error
+sle                     Squared Log Error
+smape                   Symmetric Mean Absolute Percentage Error
+sse                     Sum of Squared Errors
